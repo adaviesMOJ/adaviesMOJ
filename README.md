@@ -1,11 +1,10 @@
 
-  _________            .__                 ___.                  __        .___                 .__                              
- /   _____/____________|__| ____    ____   \_ |__   ____   _____/  |_    __| _/_______  __ ____ |  |   ____ ______   ___________ 
- \_____  \\____ \_  __ \  |/    \  / ___\   | __ \ /  _ \ /  _ \   __\  / __ |/ __ \  \/ // __ \|  |  /  _ \\____ \_/ __ \_  __ \
- /        \  |_> >  | \/  |   |  \/ /_/  >  | \_\ (  <_> |  <_> )  |   / /_/ \  ___/\   /\  ___/|  |_(  <_> )  |_> >  ___/|  | \/
-/_______  /   __/|__|  |__|___|  /\___  /   |___  /\____/ \____/|__|   \____ |\___  >\_/  \___  >____/\____/|   __/ \___  >__|   
-        \/|__|                 \//_____/        \/                          \/    \/          \/            |__|        \/       
-
+ ___          _             _              _        _             _                   
+ / __|_ __ _ _(_)_ _  __ _  | |__  ___  ___| |_   __| |_____ _____| |___ _ __  ___ _ _ 
+ \__ \ '_ \ '_| | ' \/ _` | | '_ \/ _ \/ _ \  _| / _` / -_) V / -_) / _ \ '_ \/ -_) '_|
+ |___/ .__/_| |_|_||_\__, | |_.__/\___/\___/\__| \__,_\___|\_/\___|_\___/ .__/\___|_|  
+     |_|             |___/                                              |_|            
+     
 👋 Hello, I'm Aaron Davies!
 I'm a Senior Software Developer specializing in Kotlin and Spring Boot development, currently working within the UK Government. I have a passion for building scalable, secure, and reliable backend services. 
 I'm also expanding my skill set to include frontend development to become a more versatile full-stack developer.
