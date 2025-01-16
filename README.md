@@ -2,7 +2,7 @@
 
 I'm a Senior Software Developer specializing in Kotlin and Spring Boot development, currently working within the UK Government. I have a passion for building scalable, secure, and reliable backend services. 
 
-🚀 Current technologies I Work With
+🚀 Current technologies I work with
 
 **Backend:**
 
