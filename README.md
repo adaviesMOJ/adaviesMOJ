@@ -12,7 +12,7 @@ PostgreSQL - Efficient relational databases and complex queries.
 Flyway - Database migrations for smooth deployments.
 DevOps:
 Docker / Docker Compose - Containerized applications and integration testing.
-CircleCI - Automating builds, testing, and deployments.
+CircleCI / GitHub Actions - Automating builds, testing, and deployments.
 Learning:
 Frontend Technologies - Currently diving into React and Vue.js to complement my backend knowledge.
 TypeScript & JavaScript - For more robust client-side development.
