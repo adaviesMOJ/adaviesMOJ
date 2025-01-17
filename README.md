@@ -1,10 +1,10 @@
-👋 Hello, I'm Aaron Davies!
+👋 **Hello**, I'm Aaron Davies!
 
 I'm a Senior Software Developer specializing in Kotlin and Spring Boot development, currently working within the UK Government. I have a passion for building scalable, secure, and reliable backend services. 
 
 🚀 Current technologies I work with
 
-**Backend:**
+**Backend**
 
 Kotlin / Java - My go-to languages for backend development.
 
@@ -14,14 +14,17 @@ PostgreSQL - Efficient relational databases and complex queries.
 
 Flyway - Database migrations for smooth deployments.
 
-**DevOps:**
+**DevOps**
 
 Docker / Docker Compose - Containerized applications and integration testing.
 
 CircleCI / GitHub Actions - Automating builds, testing, and deployments.
 
+Helm - To help deployment
+
+Azure - Logging in the cloud
+
 Learning:
-Frontend Technologies - Currently diving into React and Vue.js to complement my backend knowledge.
 
 TypeScript & JavaScript - For more robust client-side development.
 
